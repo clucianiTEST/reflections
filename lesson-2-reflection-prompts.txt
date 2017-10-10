@@ -1,13 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
- It is created  .git directory where it saved a bunch of meta data whose turus is related with futurs commits 
-How is the  area different from the working directory and the repository
+ It is created  .git directory where it saved a bunch of meta data whose are  related with futurs commits 
+How is the  stage area different from the working directory and the repository
+Is like a holding area where you can storage file until your are ready to commit
 What value do you think it offers?
 
- All beneffit of git
+ All beneffit of git ok
 
-How can you use the staging area to make sure you have one commit per logical
-change?
-
+How can you use the staging area to make sure you have one commit per logical change?
+You can save every new steps you change in the work directory and when the logical step is completed the you can pass trought the staging area
  In this areas one choose what file can be tranking by a commit
  
 
