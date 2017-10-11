@@ -4,7 +4,7 @@ How is the  stage area different from the working directory and the repository
 Is like a holding area where you can storage file until your are ready to commit
 What value do you think it offers?
 
- All beneffit of git ok
+ All beneff it of git ok
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can save every new steps you change in the work directory and when the logical step is completed the you can pass trought the staging area
@@ -13,6 +13,10 @@ You can save every new steps you change in the work directory and when the logic
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+To creat new experimental feature and merge in furture with the main proyect
+To create different version of the proyect with different parameters 
+To keep organize the the possible changes without loss my logical treads
 
 How do the diagrams help you visualize the branch structure?
 
