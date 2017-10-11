@@ -18,12 +18,14 @@ organized? How would branches help?
 	-To create different version of the proyect with different parameters 
 	-To keep organize the the possible changes without loss my logical treads
 
-How do the diagrams help you visualize the branch structure?
+*How do the diagrams help you visualize the branch structure?
 
 	The diagram make visible the sequence and relation between commits 
 
-What is the result of merging two branches together? Why do we represent it in
+*What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	Merge the change made in both branches, because is a way to represent paralle development with branches whose can merge when we want.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
