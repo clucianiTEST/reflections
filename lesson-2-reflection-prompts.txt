@@ -4,18 +4,18 @@
 	Is like a holding area where you can storage file until your are ready to commit
 *What value do you think it offers?
 
- 	All beneffit of git ok
+ 	All benefit of git OK
 
 *How can you use the staging area to make sure you have one commit per logical change?
-	You can save every new steps you change in the work directory and when the logical step is completed the you can pass trought the staging area
+	You can save every new steps you change in the work directory and when the logical step is completed the you can pass trough the staging area
  
- 	In this areas one choose what file can be tranking by a commit
+ 	In this areas one choose what file can be tracking by a commit
  
 *What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-	-To creat new experimental feature and merge in furture with the main proyect
-	-To create different version of the proyect with different parameters 
+	-To creat new experimental feature and merge in future with the main project
+	-To create different version of the project with different parameters 
 	-To keep organize the the possible changes without loss my logical treads
 
 *How do the diagrams help you visualize the branch structure?
@@ -25,7 +25,8 @@ organized? How would branches help?
 *What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-	Merge the change made in both branches, because is a way to represent paralle development with branches whose can merge when we want.
+	Merge the change made in both branches, because is a way to represent parallel development with branches whose can merge when we want.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+*What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+ 	Automatic merging helps to save time because they merge line of code that are not any ambiguity 
