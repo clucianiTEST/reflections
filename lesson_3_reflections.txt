@@ -7,3 +7,7 @@ local?
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 	Usually if you are working in a feature in a project team  you prefer complete it before  share it  with the rest of the team. Or you want synchronize only the completed logical task and not the steps in between. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks means copy an external GitHub  repository on your own gitHub account, Clone is a copy of a repository on your local computer, and Branch is a separated line of commit history 
